@@ -30,4 +30,5 @@ public interface Trend extends java.io.Serializable {
 
     String getQuery();
 
+    long getTweetVolume();
 }
